@@ -12,7 +12,7 @@ Webdriver (Chrome, Firefox, etc.)<br>
 3-Abra o arquivo em um editor de texto e configure as credenciais de login e a URL do site conforme necessário<br>
 4-Execute o script Python em seu vscode, terminal ou prompt de comando<br>
 
-<h3>Observações:<h3>
+# Observações:
 Este script está configurado para funcionar com o Chrome. Se você usar outro navegador, altere a variável driver no início do script<br>
 O script faz login na plataforma Logzz automaticamente, mas você precisa resolver o reCAPTCHA manualmente no momento<br>
 A etapa de acessar pedidos e escolher filtros precisa ser feita manualmente no momento<br>
